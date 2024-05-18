@@ -1,0 +1,48 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+h1 {
+    font-family: Arial;
+    margin-left: 15px;
+    font-weight: normal;
+}
+
+h3 {
+    margin-left: 15px;
+
+}
+
+.intro {
+    margin-left: 15px;
+    font-family: Arial;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+
+}
+
+.example {
+    background-color: rgb(151, 150, 150);
+    margin-left: 15px;
+}
+
+.example-box {
+    background-color: white;
+    border-left: 3px solid green;
+    margin-left: 15px;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    margin-left: 15px;
+    margin-top: 5px;
+}

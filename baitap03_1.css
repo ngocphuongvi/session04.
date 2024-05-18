@@ -1,0 +1,27 @@
+h1 {
+    color: green;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-family: Arial;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+a {
+    color: blue;
+    margin-left: 600px;
+}

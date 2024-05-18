@@ -1,0 +1,21 @@
+a {
+    color: blue;
+}
+
+p {
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+}
+
+h1 {
+    font-family: Times New Roman;
+    font-size: 35px;
+    text-align: left;
+}
+
+div {
+    background-color: rgb(246, 246, 219);
+}

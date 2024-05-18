@@ -1,0 +1,16 @@
+h1 {
+    color: #f1f138;
+}
+
+.first-div {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.last-div {
+    background-color: yellow;
+    color: black;
+}
